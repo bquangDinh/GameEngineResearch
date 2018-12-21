@@ -1,2 +1,2 @@
 # GameEngineResearch
-This repository contains source code of my Game Engine (practices, ad
+Hi my name is Quang Dinh.
